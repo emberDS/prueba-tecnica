@@ -24,9 +24,9 @@ Por favor incluya `INSTRUCTIONS.md`:
 -   
 ## Pantalla De ejemplo
 
-![LOGIN](https://)
-![Perfil](https://)
-![Modal](https://)
+![LOGIN](https://raw.githubusercontent.com/emberDS/prueba-tecnica/main/assets/login.png)
+![Perfil](https://raw.githubusercontent.com/emberDS/prueba-tecnica/main/assets/perfil.png)
+![Modal](https://raw.githubusercontent.com/emberDS/prueba-tecnica/main/assets/modal.png)
 
 ## Objetivo
 Te proponemos que intentes crear 3 pantallas
