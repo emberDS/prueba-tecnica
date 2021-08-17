@@ -49,7 +49,7 @@ Hay mil maneras de hacer un modal, ¿Cuál prefieres tú y por qué?
 # Requerido
 
 -   React
--   Testing (solo SR)
+-   Testing (opcional para JR / requerido para SR)
 -   Responsive (opcional para JR / requerido para SR)
 
 ### Puntos extra
